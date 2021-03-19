@@ -1,0 +1,28 @@
+com.qwerjk.better_text
+attr foreground
+attr innerShadowColor
+attr innerShadowDx
+attr innerShadowDy
+attr innerShadowRadius
+attr mtvbackground
+attr outerShadowColor
+attr outerShadowDx
+attr outerShadowDy
+attr outerShadowRadius
+attr strokeColor
+attr strokeJoinStyle
+attr strokeMiter
+attr strokeWidth
+attr typeface
+drawable fake_luxury
+drawable fake_luxury_tiled
+drawable ic_launcher
+drawable triangles
+drawable triangles_tiled
+id bevel
+id miter
+id round
+layout main
+string app_name
+string hello
+styleable MagicTextView foreground innerShadowColor innerShadowDx innerShadowDy innerShadowRadius mtvbackground outerShadowColor outerShadowDx outerShadowDy outerShadowRadius strokeColor strokeJoinStyle strokeMiter strokeWidth typeface

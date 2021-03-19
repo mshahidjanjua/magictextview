@@ -1,0 +1,29 @@
+R_DEF: Internal format may change without notice
+local
+attr? foreground
+attr? innerShadowColor
+attr? innerShadowDx
+attr? innerShadowDy
+attr? innerShadowRadius
+attr? mtvbackground
+attr? outerShadowColor
+attr? outerShadowDx
+attr? outerShadowDy
+attr? outerShadowRadius
+attr? strokeColor
+attr? strokeJoinStyle
+attr? strokeMiter
+attr? strokeWidth
+attr? typeface
+drawable fake_luxury
+drawable fake_luxury_tiled
+drawable ic_launcher
+drawable triangles
+drawable triangles_tiled
+id bevel
+id miter
+id round
+layout main
+string app_name
+string hello
+styleable MagicTextView innerShadowColor innerShadowRadius innerShadowDx innerShadowDy outerShadowColor outerShadowRadius outerShadowDx outerShadowDy typeface foreground mtvbackground strokeWidth strokeMiter strokeColor strokeJoinStyle

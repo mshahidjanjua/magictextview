@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MagicTextView</string>
+    <string name="hello">Hello World, MagicTextViewActivity!</string>
+    <declare-styleable name="MagicTextView">
+		<attr format="color" name="innerShadowColor"/>
+		<attr format="dimension" name="innerShadowRadius"/>
+		<attr format="dimension" name="innerShadowDx"/>
+		<attr format="dimension" name="innerShadowDy"/>
+		
+		<attr format="color" name="outerShadowColor"/>
+		<attr format="dimension" name="outerShadowRadius"/>
+		<attr format="dimension" name="outerShadowDx"/>
+		<attr format="dimension" name="outerShadowDy"/>
+		
+		<attr format="string" name="typeface"/>
+		
+		<attr format="reference|color" name="foreground"/>
+		<attr format="reference|color" name="mtvbackground"/>
+		
+		<attr format="dimension" name="strokeWidth"/>
+		<attr format="dimension" name="strokeMiter"/>
+		<attr format="color" name="strokeColor"/>
+		<attr name="strokeJoinStyle">
+		    <enum name="miter" value="0"/>
+		    <enum name="bevel" value="1"/>
+		    <enum name="round" value="2"/>
+		</attr>
+	</declare-styleable>
+</resources>
